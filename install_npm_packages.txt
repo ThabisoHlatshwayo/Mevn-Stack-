@@ -1,7 +1,0 @@
-npm install -g vue-cli
-npm install --save express body-parser morgan serve-favicon
-npm install --save mongoose bluebird
-npm install --save bcrypt-nodejs jsonwebtoken morgan passport passport-jwt
-npm install bootstrap-vue bootstrap@4.0.0-beta.2
-npm install --save axios
-npm install -–save vue-google-signin-button-directive
